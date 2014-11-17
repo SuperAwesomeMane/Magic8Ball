@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3113581079">
+    <data-source source="LOCAL" name="Rails Magic8Ball: development" uuid="9011661c-c041-4c8a-a8db-5302134f80bb">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\ashtinh\Documents\Quarter 10\Back-end Implementation\Ruby Projects\8Ball\db\development.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
